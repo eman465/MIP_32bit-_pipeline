@@ -1,0 +1,1 @@
+MIPS_32bit_pipeline 
